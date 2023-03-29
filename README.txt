@@ -1,1 +1,0 @@
-This is a Game of Puchka Simulation or Cooking.
